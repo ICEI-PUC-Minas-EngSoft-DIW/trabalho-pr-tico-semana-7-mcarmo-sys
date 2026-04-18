@@ -4,14 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:Moises do Carmo
-- Matricula: 905662
+- Nome:
+- Matricula:
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
-![Teste 1](public/img/print-um.png)
-![Console do navegador](public/img/print-dois.png)
 
 
 
